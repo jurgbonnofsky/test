@@ -1,2 +1,2 @@
 # test
-   <td valign="top"><b>[Azure Machine Learning demo] (https://github.com/Azure-for-Startups/Machine-Learning-demo)</b> – demo showing how to perform analysis of a dummy system in order to detect and alert on any anomaly or unusual behavior.</td>
+  <td valign="top"><b>[Azure IoT end-to-end demo] (https://github.com/Azure-for-Startups/Azure-IoT-demo)</b> – Demo showing IoT hub for communication with devices, Stream Analytics for data analysis and aggregation, Azure SQL database for storage of the aggregated information and Power BI for visualization</td>
