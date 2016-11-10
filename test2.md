@@ -37,9 +37,9 @@ s##Table of Contents
    :round_pushpin: <b>*Tutorials and Sample code*</b>
    -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>      
    -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
-    -   <b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b>
-    -   <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
-    -   <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
+   -   <b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b>
+   -   <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
+   -   <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
       <p>
 
    ###*Tools & Services*
