@@ -18,7 +18,8 @@ s##Table of Contents
 -	**[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
 ![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)
 <p> </p>
-<p> </p>	##Working with Azure
+<p> </p>	
+##Working with Azure
 
 -	**[Azure Portal] (https://portal.azure.com/)** - The best way to get started is with the Azure portal, a web based interface for managing Azure.
  -	**[Azure SDKs & Tools] (https://azure.microsoft.com/en-us/downloads/)** - SDKs for many common languages such as .NET, Java, Node.js, Python, Ruby and other tools.
@@ -35,11 +36,11 @@ s##Table of Contents
 -	**[MongoDB to Azure Migration resources] (https://github.com/Azure-for-Startups/Content/blob/master/Content/MongoDB%20Azure%20Migration.md)**  
 
    :round_pushpin: <b>*Tutorials and Sample code*</b>
-   -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>      
-   -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
-   -   <b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b>
-   -   <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
-   -   <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
+    -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>
+    -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
+    -   <b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b>
+    -   <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
+    -   <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
       <p>
 
    ###*Tools & Services*
