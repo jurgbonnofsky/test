@@ -36,7 +36,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 -	**[AWS to Azure mapping] (https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)** - Map between Azure and AWS services
 -	**[MongoDB to Azure Migration resources] (https://github.com/Azure-for-Startups/Content/blob/master/Content/MongoDB%20Azure%20Migration.md)**  
 
-   :white_check_mark: <b>*Tutorials and Sample code*</b>
+   :small_blue_diamond: <b>*Tutorials and Sample code*</b>
 
    -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>      
    -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
