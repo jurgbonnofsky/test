@@ -62,7 +62,7 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
 -	**[Docker Documentation] (https://docs.docker.com/)** - Starting point for documentation on Dockers including Docker for MAC, Windows, Linux, etc.
 
 
-   :white_check_mark: <b>*Tutorials and Sample code*</b>
+   :page_with_curl: <b>*Tutorials and Sample code*</b>
     -    <b>[Containers on Azure] (https://github.com/Azure-for-Startups/Containers-on-Azure-demo)</b> - Perform heavy computational tasks (for example video or audio encoding, hash calculation, data encryption, etc.) and make the process scalable and cost effective using Docker containers.
     -    <b>[Deploy to Azure using the Docker VM Extension] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-dockerextension/)</b> - use Resource Manager templates to deploy the Docker VM Extension in a custom, production-ready environment that you define
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
