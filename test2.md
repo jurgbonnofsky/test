@@ -36,7 +36,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 -	**[AWS to Azure mapping] (https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)** - Map between Azure and AWS services
 -	**[MongoDB to Azure Migration resources] (https://github.com/Azure-for-Startups/Content/blob/master/Content/MongoDB%20Azure%20Migration.md)**  
 
-   :white_check_mark:     <b>*Tutorials and Sample code*</b>
+   :white_check_mark:     <b>*Tutorials and Sample code*</b>z
 
    -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>      
    -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
@@ -64,7 +64,7 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
 -	**[Docker Documentation] (https://docs.docker.com/)** - Starting point for documentation on Dockers including Docker for MAC, Windows, Linux, etc.
 
 
-   ###*Tutorials and Sample code*
+   :white_check_mark:     <b>*Tutorials and Sample code*</b>
     -    <b>[Containers on Azure] (https://github.com/Azure-for-Startups/Containers-on-Azure-demo)</b> - Perform heavy computational tasks (for example video or audio encoding, hash calculation, data encryption, etc.) and make the process scalable and cost effective using Docker containers.
     -    <b>[Deploy to Azure using the Docker VM Extension] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-dockerextension/)</b> - use Resource Manager templates to deploy the Docker VM Extension in a custom, production-ready environment that you define
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
@@ -92,7 +92,7 @@ Platform as a Service (PaaS) resources are Azure services which are built for mo
  ###Media & CDN
 -	**[Azure Media Services (AMS) Overview] (https://azure.microsoft.com/en-us/documentation/articles/media-services-overview/)** – Learn about Azure Media Services and how to build scalable media management and delivery apps.
 
-   ###*Tutorials and Sample code*
+   :white_check_mark:     <b>*Tutorials and Sample code*</b>
     -    <b>[Notification Hub demo] (https://github.com/Azure-for-Startups/Notification-Hub-demo)</b> - Deliver push notification messages to mobile applications on iOS, Android and Windows Phone platforms using Azure Notification Hub
     -    <b>[PHP, Node.js, and Python] (https://github.com/Azure-for-Startups/Content/blob/master/Content/Deploy%20Node.js%20PHP%20and%20Python%20Web-apps-on-Azure.md)</b> - Deploy PHP, Node.js and Python web apps on Azure and learn how to configure Azure App service
 
@@ -101,7 +101,7 @@ Platform as a Service (PaaS) resources are Azure services which are built for mo
 -	**[Machine Learning Overview] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-what-is-machine-learning/)** - Overview and tutorial on Machine Learning.
 -	**[Azure Machine Learning Studio] (https://azure.microsoft.com/en-us/documentation/articles/machine-learning-what-is-ml-studio/)** - A collaborative, drag-and-drop tool you can use to build, test, and deploy predictive analytics solutions. 
 
-   ###*Tutorials and Sample code*
+   :white_check_mark:     <b>*Tutorials and Sample code*</b>
     -    <b>[IoT Microsoft Imagine course content] (https://github.com/MSFTImagine/computerscience/tree/master/Complimentary Course Content/Module6)</b> – learn how to collect streaming data from IoT devices and analyze the streaming data
 
 
@@ -111,7 +111,7 @@ Platform as a Service (PaaS) resources are Azure services which are built for mo
 -	**[DocumentDB] (https://azure.microsoft.com/en-us/documentation/services/documentdb/)** – Learn about this fully managed NoSQL database service and how to build and manage DocumentDB applications.
 -	**[MongoDB on Azure] (https://docs.mongodb.com/ecosystem/platforms/windows-azure/)** ¬- Learn about MongoDB on Azure and deployment recommendations.
 
-   ###*Tutorials and Sample code*
+   :white_check_mark:     <b>*Tutorials and Sample code*</b>
     -    <b>[Import data to DocumentDB with the Database Migration tool] (https://azure.microsoft.com/en-us/documentation/articles/documentdb-import-data/)</b> – Learn how to use the open source DocumentDB data migration tool to import data to Azure DocumentDB
    -    <b>[Install MongoDB on a Windows VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-classic-install-mongodb/)</b> – Learn how to install MongoDB on a Windows VM in Azure.
    -    <b>[Install MongoDB on Linux] (https://docs.mongodb.com/v3.0/administration/install-on-linux/)</b> - Learn how to install MongoDB on a Linux VM in Azure.
