@@ -23,10 +23,10 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 	##Working with Azure
 
 -	**[Azure Portal] (https://portal.azure.com/)** - The best way to get started is with the Azure portal, a web based interface for managing Azure.
--	**[Azure SDKs & Tools] (https://azure.microsoft.com/en-us/downloads/)** - SDKs for many common languages such as .NET, Java, Node.js, Python, Ruby and other tools.
+ -	**[Azure SDKs & Tools] (https://azure.microsoft.com/en-us/downloads/)** - SDKs for many common languages such as .NET, Java, Node.js, Python, Ruby and other tools.
 -	**[Azure PowerShell] (https://msdn.microsoft.com/en-us/library/jj156055.aspx)** - Work with PowerShell cmdlets to perform Azure operations.
 -	**[Azure CLI] (https://azure.microsoft.com/en-us/documentation/articles/xplat-cli-install/)** – Create/manage Azure resources using a set of open-source shell-based commands.
->-	**[Azure API Reference] (https://msdn.microsoft.com/en-us/library/azure/mt420159.aspx)** - Reference for Azure REST and .NET APIs.
+ -	**[Azure API Reference] (https://msdn.microsoft.com/en-us/library/azure/mt420159.aspx)** - Reference for Azure REST and .NET APIs.
 -	**[Azure Solutions] (https://azure.microsoft.com/en-us/solutions/?v=3)** - A listing of top Azure solutions and their brief descriptions
 -	**[Azure Products and services] (https://azure.microsoft.com/en-us/services/)** – A searchable list of all Azure products and services
 
@@ -36,22 +36,32 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 -	**[AWS to Azure mapping] (https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)** - Map between Azure and AWS services
 -	**[MongoDB to Azure Migration resources] (https://github.com/Azure-for-Startups/Content/blob/master/Content/MongoDB%20Azure%20Migration.md)**  
 
+
    ###*Tutorials and Sample code*
-      -    <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>
+     <table class="table table-bordered table-hover">
+     <tr>
+	  <td valign="top"><b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b></td>
+     </tr>
+     <tr>
+        <td valign="top"><b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b></td>
+     </tr>
+     <tr>
+	  <td valign="top"><b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b></td>
+     </tr>     
+     <tr>
+        <td valign="top"><b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b></td>
+     </tr>
+     <tr>
+        <td valign="top"><b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b></td>
+     </tr>
+   </table>
+
+      -    <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>      
       -    <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
       -    <b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b>
       -    <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
       -    <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
-
-   ###*tutorials 2#*
-   <table class="table table-bordered table-striped table-hover">
-        <tr>
-          <td valign="top"><b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b></td>
-         </tr>
-        <tr>
-          <td valign="top"><b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b></td>
-         </tr>
-   </table>
+      <p>
 
    ###*Tools & Services*
 	- **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
