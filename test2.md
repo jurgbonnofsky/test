@@ -20,7 +20,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 ![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)
 <p> </p>
 <p> </p>
-##Working with Azure
+	##Working with Azure
 
 -	**[Azure Portal] (https://portal.azure.com/)** - The best way to get started is with the Azure portal, a web based interface for managing Azure.
 -	**[Azure SDKs & Tools] (https://azure.microsoft.com/en-us/downloads/)** - SDKs for many common languages such as .NET, Java, Node.js, Python, Ruby and other tools.
@@ -43,10 +43,20 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
       -    <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
       -    <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
 
+   ###*tutorials 2#*
+   <table class="table table-bordered table-striped table-hover">
+        <tr>
+          <td valign="top"><b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b></td>
+         </tr>
+        <tr>
+          <td valign="top"><b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b></td>
+         </tr>
+   </table>
+
    ###*Tools & Services*
-- **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
-- **[CloudBerry Cloud Migrator] (http://www.cloudberrylab.com/cloud-migrator.aspx)** - service to transfer files from one cloud storage to another (Amazon S3 & Glacier, Windows Azure Blob Storage, Rackspace Cloud Files and FTP servers).
-- **[Azure Import/Export Service] (https://azure.microsoft.com/en-us/documentation/articles/storage-import-export-service/)** - Transfer Data to Blob Storage.
+	- **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
+	- **[CloudBerry Cloud Migrator] (http://www.cloudberrylab.com/cloud-migrator.aspx)** - service to transfer files from one cloud storage to another (Amazon S3 & Glacier, Windows Azure Blob Storage, Rackspace Cloud Files and FTP servers).
+	- **[Azure Import/Export Service] (https://azure.microsoft.com/en-us/documentation/articles/storage-import-export-service/)** - Transfer Data to Blob Storage.
 
 #Infrastructure Services (IaaS)
 Infrastructure as a service (IaaS) refers to the compute, networking and storage building blocks which allow you to build any kind of cloud solution. IaaS allows you to have maximum control on how you manage virtual machines, network configuration but requires you to invest in attaining robustness, availability and scalability in the cloud.  
