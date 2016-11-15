@@ -35,7 +35,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 -	**[AWS to Azure mapping] (https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)** - Map between Azure and AWS services
 -	**[MongoDB to Azure Migration resources] (https://github.com/Azure-for-Startups/Content/blob/master/Content/MongoDB%20Azure%20Migration.md)**  
 
-  <h3>:round_pushpin:<i> Tutorials and Sample code</i></h3>
+  <h3>:bulb:<i> Tutorials and Sample code</i></h3>
 
     -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>
     -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
@@ -95,7 +95,7 @@ Platform as a Service (PaaS) resources are Azure services which are built for mo
  ###Media & CDN
 -	**[Azure Media Services (AMS) Overview] (https://azure.microsoft.com/en-us/documentation/articles/media-services-overview/)** – Learn about Azure Media Services and how to build scalable media management and delivery apps.
 
-   :white_check_mark: <b>*Tutorials and Sample code*</b>
+   :round_pushpin: <b>*Tutorials and Sample code*</b>
     -    <b>[Notification Hub demo] (https://github.com/Azure-for-Startups/Notification-Hub-demo)</b> - Deliver push notification messages to mobile applications on iOS, Android and Windows Phone platforms using Azure Notification Hub
     -    <b>[PHP, Node.js, and Python] (https://github.com/Azure-for-Startups/Content/blob/master/Content/Deploy%20Node.js%20PHP%20and%20Python%20Web-apps-on-Azure.md)</b> - Deploy PHP, Node.js and Python web apps on Azure and learn how to configure Azure App service
 
