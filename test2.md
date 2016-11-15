@@ -42,7 +42,6 @@ s##Table of Contents
     -   <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
     -   <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
       <p>
-
    ###*Tools & Services*
 	- **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
 	- **[CloudBerry Cloud Migrator] (http://www.cloudberrylab.com/cloud-migrator.aspx)** - service to transfer files from one cloud storage to another (Amazon S3 & Glacier, Windows Azure Blob Storage, Rackspace Cloud Files and FTP servers).
@@ -67,8 +66,9 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
     -    <b>[Deploy to Azure using the Docker VM Extension] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-dockerextension/)</b> - use Resource Manager templates to deploy the Docker VM Extension in a custom, production-ready environment that you define
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
 <p>
-   <img src="https://github.com/JurgBonnofsky/test/blob/master/webinar.jpg" style="vertical-align:sub"><b>*Webinars*</b>
-   -   <b>[Manage your microservices and containers with CoScale in real-time ] (https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Achieving-Start-up-Velocity-with-Serverless-Architectures--Gonalo-Ruiz-Microsoft-Startup-Accelerator?direction=asc)</b> - Don’t be blind, manage your microservices and containers with CoScale in real-time .
+
+   :video_camera: <b>*Webinars*</b>
+    -   <b>[Manage your microservices and containers with CoScale in real-time ] (https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Achieving-Start-up-Velocity-with-Serverless-Architectures--Gonalo-Ruiz-Microsoft-Startup-Accelerator?direction=asc)</b> - Don’t be blind, manage your microservices and containers with CoScale in real-time .
 
 ##Networking
 -	**[Virtual Networks (Vnets) Overview] (https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)** – Learn about Azure Virtual Networks and how to create them.
