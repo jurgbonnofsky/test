@@ -67,6 +67,9 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
     -    <b>[Deploy to Azure using the Docker VM Extension] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-dockerextension/)</b> - use Resource Manager templates to deploy the Docker VM Extension in a custom, production-ready environment that you define
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
 
+   ![](https://github.com/JurgBonnofsky/test/blob/master/webinar.jpg) <b>*Webinars*</b>
+    -   <b>[Manage your microservices and containers with CoScale in real-time ] (https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Achieving-Start-up-Velocity-with-Serverless-Architectures--Gonalo-Ruiz-Microsoft-Startup-Accelerator?direction=asc)</b> - Don’t be blind, manage your microservices and containers with CoScale in real-time .
+
 ##Networking
 -	**[Virtual Networks (Vnets) Overview] (https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)** – Learn about Azure Virtual Networks and how to create them.
 -	**[Network Security Groups] (https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-nsg/)** – Learn about Network Security Groups (NSGs) and how to configure them.
