@@ -74,7 +74,7 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
 ##Networking
 -	**[Virtual Networks (Vnets) Overview] (https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)** – Learn about Azure Virtual Networks and how to create them.
 -	**[Network Security Groups] (https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-nsg/)** – Learn about Network Security Groups (NSGs) and how to configure them.
--	**[Load-Balancers] (https://azure.microsoft.com/en-us/documentation/articles/load-balancer-overview/)** – Learn about Azure Load Balancer and to configure one.
+-	**[Load-Balancers] (https://azure.microsoft.com/en-us/documentation/articles/load-balancer-overview/)** – Learn about Azure Load Balancer and to configure one. 
 
 ##Storage
 -	**[Introduction to Azure Storage] (https://azure.microsoft.com/en-us/documentation/articles/storage-introduction/)** – Learn the basics of Azure Storage including Blob, Table, Queue, and File storage.
