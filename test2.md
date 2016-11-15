@@ -1,4 +1,3 @@
-
 # Azure for Startups
 
 The purpose of this GitHub repository is to help **startups** quickly engage and get up and running on Azure services.  You'll find links to key documentation, tutorials and code packets.  If you have feedback on the content please submit an [issue] (https://github.com/Azure-for-Startups/Content/issues).
@@ -8,7 +7,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
    <tr>
 	<td valign="top"><b>[- Getting Started on Azure] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#getting-started-on-azure)<br>[- Working with Azure] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#working-with-azure)<br>[- Migrating to Azure] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#migrating-to-azure)</b></td>
 	<td valign="top"><b>[- Infrastructure Services] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#infrastructure-services-iaas)</b><br>&nbsp;&nbsp;&nbsp;Compute, Networking, Storage<br><b>[- Platform Services] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#platform-services-paas)</b><br>&nbsp;&nbsp;&nbsp;Web & Mobile, IoT & Machine Learning, <br>&nbsp;&nbsp;&nbsp;Data, Intelligence & Analytics<br></td>	<td valign="top"><b>[- Cloud Architecure] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#cloud-architecture)<br>[- Additional Useful Tools and Links] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#additional-useful-tools--links)<br>[- Azure Resource Manager] (https://github.com/Azure-for-Startups/Content/blob/master/README.md#azure-resource-manager-arm)</b></td>
-	</tr>
+</tr>
      </table>
 ##Getting Started on Azure
 - **[Get started on Azure](https://azure.microsoft.com/en-us/get-started/)** – Link to azure.com Getting Started page.
@@ -18,7 +17,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 - **[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
 - **[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
 ![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
-<p> </p>	
+ <p> </p>	
 
 ##Working with Azure
 
@@ -36,17 +35,19 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 -	**[AWS to Azure mapping] (https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)** - Map between Azure and AWS services
 -	**[MongoDB to Azure Migration resources] (https://github.com/Azure-for-Startups/Content/blob/master/Content/MongoDB%20Azure%20Migration.md)**  
 
-   :round_pushpin: <b>*Tutorials and Sample code*</b>
+  <h3>:round_pushpin:<i> Tutorials and Sample code</i></h3>
+
     -   <b>[AWS VM to Azure VM migration] (Content/AWS VM to Azure VM Migration.md)</b>
     -   <b>[AWS RDS to Azure SQL migration] (Content/AWS RDS to Azure SQL migration.md)</b>
     -   <b>[AWS S3 to Azure Blob storage migration] (https://github.com/Azure-for-Startups/Amazon-S3-to-Azure-Storage-demo)</b>
     -   <b>[AWS CDN to Azure CDN Migration] (Content/Amazon CDN to Azure CDN migration.md)</b>
     -   <b>[ASP.NET Web App migration from AWS to Azure] (Content/ASP.NET Web App migration from AWS to% Azure.md)</b>
       <p>
-   ###*Tools & Services*
-	- **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
-	- **[CloudBerry Cloud Migrator] (http://www.cloudberrylab.com/cloud-migrator.aspx)** - service to transfer files from one cloud storage to another (Amazon S3 & Glacier, Windows Azure Blob Storage, Rackspace Cloud Files and FTP servers).
-  <h3>:bulb:<i> Tutorials and Sample code</i></h3>	- **[Azure Import/Export Service] (https://azure.microsoft.com/en-us/documentation/articles/storage-import-export-service/)** - Transfer Data to Blob Storage.
+
+  ###*Tools & Services*
+    - **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
+    - **[CloudBerry Cloud Migrator] (http://www.cloudberrylab.com/cloud-migrator.aspx)** - service to transfer files from one cloud storage to another (Amazon S3 & Glacier, Windows Azure Blob Storage, Rackspace Cloud Files and FTP servers).
+    - **[Azure Import/Export Service] (https://azure.microsoft.com/en-us/documentation/articles/storage-import-export-service/)** - Transfer Data to Blob Storage.
 
 #Infrastructure Services (IaaS)
 Infrastructure as a service (IaaS) refers to the compute, networking and storage building blocks which allow you to build any kind of cloud solution. IaaS allows you to have maximum control on how you manage virtual machines, network configuration but requires you to invest in attaining robustness, availability and scalability in the cloud.  
