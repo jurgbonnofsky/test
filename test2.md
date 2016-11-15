@@ -17,8 +17,7 @@ s##Table of Contents
 - **[Azure on Microsoft Virtual Academy] (https://mva.microsoft.com/training-topics/cloud-app-development)** - Virtual courses on cloud development.
 -	**[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
 -	**[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
-![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)
-<p> </p>
+![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
 <p> </p>	
 
 ##Working with Azure
@@ -68,7 +67,8 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
 <p>
 
-   :video_camera: <b>*Webinars*</b>
+
+  <h3>:video_camera:<i> Webinars</i></h3>
     -   <b>[Manage your microservices and containers with CoScale in real-time ] (https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Achieving-Start-up-Velocity-with-Serverless-Architectures--Gonalo-Ruiz-Microsoft-Startup-Accelerator?direction=asc)</b> - Don’t be blind, manage your microservices and containers with CoScale in real-time .
 
 ##Networking
