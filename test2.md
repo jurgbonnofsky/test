@@ -1,3 +1,4 @@
+
 # Azure for Startups
 
 The purpose of this GitHub repository is to help **startups** quickly engage and get up and running on Azure services.  You'll find links to key documentation, tutorials and code packets.  If you have feedback on the content please submit an [issue] (https://github.com/Azure-for-Startups/Content/issues).
@@ -19,6 +20,7 @@ s##Table of Contents
 ![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)
 <p> </p>
 <p> </p>	
+
 ##Working with Azure
 
 -	**[Azure Portal] (https://portal.azure.com/)** - The best way to get started is with the Azure portal, a web based interface for managing Azure.
@@ -45,7 +47,7 @@ s##Table of Contents
    ###*Tools & Services*
 	- **[AWCopy] (https://github.com/cicorias/AWCopy)** - Azure service that provides parallelized copies of S3 files in Amazon Web Services to Azure blobs.
 	- **[CloudBerry Cloud Migrator] (http://www.cloudberrylab.com/cloud-migrator.aspx)** - service to transfer files from one cloud storage to another (Amazon S3 & Glacier, Windows Azure Blob Storage, Rackspace Cloud Files and FTP servers).
-	- **[Azure Import/Export Service] (https://azure.microsoft.com/en-us/documentation/articles/storage-import-export-service/)** - Transfer Data to Blob Storage.
+  <h3>:bulb:<i> Tutorials and Sample code</i></h3>	- **[Azure Import/Export Service] (https://azure.microsoft.com/en-us/documentation/articles/storage-import-export-service/)** - Transfer Data to Blob Storage.
 
 #Infrastructure Services (IaaS)
 Infrastructure as a service (IaaS) refers to the compute, networking and storage building blocks which allow you to build any kind of cloud solution. IaaS allows you to have maximum control on how you manage virtual machines, network configuration but requires you to invest in attaining robustness, availability and scalability in the cloud.  
@@ -60,8 +62,7 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
 -	**[Choose between App Services, Service Fabric and VMs] (https://azure.microsoft.com/en-us/documentation/articles/choose-web-site-cloud-service-vm/)** - including scenarios and recommendations.
 -	**[Docker Documentation] (https://docs.docker.com/)** - Starting point for documentation on Dockers including Docker for MAC, Windows, Linux, etc.
 
-
-   :page_with_curl: <b>*Tutorials and Sample code*</b>
+  <h3>:page_with_curl:<i> Tutorials and Sample code</i></h3>
     -    <b>[Containers on Azure] (https://github.com/Azure-for-Startups/Containers-on-Azure-demo)</b> - Perform heavy computational tasks (for example video or audio encoding, hash calculation, data encryption, etc.) and make the process scalable and cost effective using Docker containers.
     -    <b>[Deploy to Azure using the Docker VM Extension] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-dockerextension/)</b> - use Resource Manager templates to deploy the Docker VM Extension in a custom, production-ready environment that you define
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
@@ -122,7 +123,7 @@ Platform as a Service (PaaS) resources are Azure services which are built for mo
 -	**[Stream Analytics] (http://azure.microsoft.com/en-us/services/stream-analytics/)** - Overview of Azure stream analytics, low-cost solutions to gain real-time insights from devices, sensors, infrastructure, and applications 
 -	**[Additional Intelligence and Analytics services] (https://azure.microsoft.com/en-us/services/?sort=popular&filter=intelligence-analytics)** – HDInsight, Machine Learning, Data Factory, Log Analytics, Data Catalog, Power BI Embedded, Data Lake store and much more.
 
-   :white_check_mark: <b>*Tutorials and Sample code*</b>
+   <h3>:bulb:<i> Tutorials and Sample code</i></h3>
     -     <b>[Data Analysis using Hadoop] (https://github.com/MSFTImagine/computerscience/tree/master/Complimentary%20Course%20Content/Module4)</b>  – Microsoft Imagine course content - learn how to use Hive for Big Data Analysis
     -     <b>[Data Science and Machine Learning] (https://github.com/MSFTImagine/computerscience/tree/master/Complimentary%20Course%20Content/Module5)</b> – Microsoft Imagine course content - learn fundamental concepts of machine learning and use Spark to predict the trend and patterns of massive data sets
 
