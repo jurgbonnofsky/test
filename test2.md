@@ -23,7 +23,7 @@ s##Table of Contents
 
 -	**[Azure Portal] (https://portal.azure.com/)** - The best way to get started is with the Azure portal, a web based interface for managing Azure.
  -	**[Azure SDKs & Tools] (https://azure.microsoft.com/en-us/downloads/)** - SDKs for many common languages such as .NET, Java, Node.js, Python, Ruby and other tools.
--	**[Azure PowerShell] (https://msdn.microsoft.com/en-us/library/jj156055.aspx)** - Work with PowerShell cmdlets to perform Azure operations.
+ -	**[Azure PowerShell] (https://msdn.microsoft.com/en-us/library/jj156055.aspx)** - Work with PowerShell cmdlets to perform Azure operations.
 -	**[Azure CLI] (https://azure.microsoft.com/en-us/documentation/articles/xplat-cli-install/)** – Create/manage Azure resources using a set of open-source shell-based commands.
  -	**[Azure API Reference] (https://msdn.microsoft.com/en-us/library/azure/mt420159.aspx)** - Reference for Azure REST and .NET APIs.
 -	**[Azure Solutions] (https://azure.microsoft.com/en-us/solutions/?v=3)** - A listing of top Azure solutions and their brief descriptions
@@ -66,9 +66,9 @@ Infrastructure as a service (IaaS) refers to the compute, networking and storage
     -    <b>[Containers on Azure] (https://github.com/Azure-for-Startups/Containers-on-Azure-demo)</b> - Perform heavy computational tasks (for example video or audio encoding, hash calculation, data encryption, etc.) and make the process scalable and cost effective using Docker containers.
     -    <b>[Deploy to Azure using the Docker VM Extension] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-dockerextension/)</b> - use Resource Manager templates to deploy the Docker VM Extension in a custom, production-ready environment that you define
     -    <b>[Ruby on Rails web app on Azure VM] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-classic-ruby-rails-web-app/)</b>
-
-   ![](https://github.com/JurgBonnofsky/test/blob/master/webinar.jpg) <b>*Webinars*</b>
-    -   <b>[Manage your microservices and containers with CoScale in real-time ] (https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Achieving-Start-up-Velocity-with-Serverless-Architectures--Gonalo-Ruiz-Microsoft-Startup-Accelerator?direction=asc)</b> - Don’t be blind, manage your microservices and containers with CoScale in real-time .
+<p>
+   <img src="https://github.com/JurgBonnofsky/test/blob/master/webinar.jpg" style="vertical-align:sub"><b>*Webinars*</b>
+   -   <b>[Manage your microservices and containers with CoScale in real-time ] (https://channel9.msdn.com/Events/Journey-to-the-Websummit--Online-Masterclasses/Achieving-Start-up-Velocity-with-Serverless-Architectures--Gonalo-Ruiz-Microsoft-Startup-Accelerator?direction=asc)</b> - Don’t be blind, manage your microservices and containers with CoScale in real-time .
 
 ##Networking
 -	**[Virtual Networks (Vnets) Overview] (https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/)** – Learn about Azure Virtual Networks and how to create them.
