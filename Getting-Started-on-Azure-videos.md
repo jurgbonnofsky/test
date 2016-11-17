@@ -8,7 +8,7 @@ This video provides an introduction to the Azure Portal covering navigation and 
 
 
 ###Additional related content:
--	**[Overview of the Azure Portal video] ()**
+-	**[Overview of the Azure Portal - script] ()**
 -	**[Azure Portal] ()** - The best way to get started is with the Azure portal, a web based interface for managing Azure.
 -	**[Introducing Microsoft Azure - Azure Portal] ()** - a foundation for understanding the fundamentals of Azure, even if you don't know anything about cloud computing.
 
