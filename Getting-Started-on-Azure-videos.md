@@ -1,5 +1,5 @@
 #Getting Started on Azure video series
-This video series covers the basics of the Azure portal and the components and steps to set up a Virtual Machine.  At the end of this series you will understand how to set up a Resource Group, Storage account, Virtual Network, and Virtual Machine.  The series is presented below in the suggested order of dependencies to setup a Virtual Machine.
+This video series covers the basics of the Azure portal an the components and steps to set up a Virtual Machine.  At the end of this series you will understand how to set up a Resource Group, Storage account, Virtual Network, and Virtual Machine.  The series is presented below in the suggested order of dependencies to setup a Virtual Machine.
 
 ##Overview of the Azure Portal
 This video provides and introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.
