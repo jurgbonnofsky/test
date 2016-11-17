@@ -4,7 +4,8 @@ This video series covers the basics of the Azure portal and the components and s
 ##Overview of the Azure Portal
 This video provides and introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.
 
-![](https://github.com/jurgbonnofsky/blob/master/media/PortalVideoPic.png)<p> 
+<img src="https://github.com/jurgbonnofsky/test/blob/master/PortalVideoPic.png" width="308" height="170" />
+
 
 ###Additional related content:
 -	**[Overview of the Azure Portal video] ()**
