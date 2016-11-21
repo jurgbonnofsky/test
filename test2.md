@@ -16,7 +16,8 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 - **[Azure on Microsoft Virtual Academy] (https://mva.microsoft.com/training-topics/cloud-app-development)** - Virtual courses on cloud development.
  **[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
 - **[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
-     <table class="table table-bordered table-striped table-hover">
+
+     <table class="table table-bordered table-striped table-hover">
         <tr>
           <td valign="top">
   <h3>:page_with_curl:<i>Tutorial video series</i></h3>
