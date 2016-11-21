@@ -14,16 +14,9 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 - **[Interactive Azure Map] (https://aka.ms/azmap)** - Interactive overview of services available on Azure. Click on a service to learn about it.
 - **[Azure Learning Paths] (https://azure.microsoft.com/en-us/documentation/learning-paths/)** - Get started with these learning paths for different Azure Services.
 - **[Azure on Microsoft Virtual Academy] (https://mva.microsoft.com/training-topics/cloud-app-development)** - Virtual courses on cloud development.
-- **[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
+ **[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
 - **[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
-
-  <h3>:page_with_curl:<i>Tutorial video series</i></h3>
-    -    <b>[Overview of the Azure portal] (URL)</b> - An introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.
-    -    <b>[Resource Groups] (URL)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.
-    -    <b>[Storage Accounts] (URL)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.
-    -    <b>[Virtual Networks] (URL)</b> - Learn how to set up a virtual network including IP address blocks, DNS setting, security policies, and routing tables on the Azure portal.
-    -    <b>[Virtual Machines] (URL)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.
-    
+   
   <h3><i>Getting Started Tutorial video series</i></h3>
      <table class="table table-bordered table-striped table-hover">
         <tr>
@@ -35,6 +28,12 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
          </tr>
      </table>
 
+  <h3>:page_with_curl:<i>Tutorial video series</i></h3>
+    -    <b>[Overview of the Azure portal] (URL)</b> - An introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.
+    -    <b>[Resource Groups] (URL)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.
+    -    <b>[Storage Accounts] (URL)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.
+    -    <b>[Virtual Networks] (URL)</b> - Learn how to set up a virtual network including IP address blocks, DNS setting, security policies, and routing tables on the Azure portal.
+    -    <b>[Virtual Machines] (URL)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.
 ![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
  <p> </p>	
 
