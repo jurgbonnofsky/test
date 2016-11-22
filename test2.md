@@ -17,20 +17,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
  **[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
 - **[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
 
-
-  <h3><i>Getting Started Tutorial video series</i></h3>
-     <table class="table table-bordered table-striped table-hover">
-	<tr>
-	  <td valign="top"><b>[Overview of the Azure portal] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Overview-of-the-Azure-portal)</b> - An introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.</td>
-	  <td valign="top"><b>[Resource Groups] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Resource-Groups)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.</td>
-          <td valign="top"><b>[Storage Accounts] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Storage-Accounts)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.</td>
-          <td valign="top"><b>[Virtual Networks] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Networks)</b> - Learn how to set up a virtual network including IP address blocks, DNS setting, security policies, and routing tables on the Azure portal.</td>
-	  <td valign="top"><b>[Virtual Machines] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Machines)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.
-	  </td>
-	 </tr>
-     </table>
-    
-    <table class="table table-bordered table-striped table-hover">
+   <table class="table table-bordered table-striped table-hover">
         <tr>
           <td valign="top">
   <h3>:video_camera:<i> Getting Started video series</i></h3>
@@ -181,3 +168,16 @@ ARM templates are JSON descriptions of ARM deployments which can be used for "In
 -	**[Deploying ARM Templates] (https://azure.microsoft.com/en-us/documentation/articles/resource-group-template-deploy/)** – Learn how to deploy ARM templates using PowerShell, Azure CLI or REST API.
 -	**[Quick Start Templates] (https://github.com/Azure/azure-quickstart-templates)** - A Github maintained, vast collection of templates for common use cases to help you get started authoring your own templates or deploying simple solutions.
 -	**[Template Authoring] (https://azure.microsoft.com/en-us/documentation/articles/resource-group-authoring-templates/)** - How to author custom templates.
+
+  <h3><i>Getting Started Tutorial video series</i></h3>
+     <table class="table table-bordered table-striped table-hover">
+	<tr>
+	  <td valign="top"><b>[Overview of the Azure portal] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Overview-of-the-Azure-portal)</b> - An introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.</td>
+	  <td valign="top"><b>[Resource Groups] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Resource-Groups)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.</td>
+          <td valign="top"><b>[Storage Accounts] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Storage-Accounts)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.</td>
+          <td valign="top"><b>[Virtual Networks] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Networks)</b> - Learn how to set up a virtual network including IP address blocks, DNS setting, security policies, and routing tables on the Azure portal.</td>
+	  <td valign="top"><b>[Virtual Machines] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Machines)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.
+	  </td>
+	 </tr>
+     </table>
+    
