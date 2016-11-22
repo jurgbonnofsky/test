@@ -32,7 +32,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
     <table class="table table-bordered table-striped table-hover">
         <tr>
           <td valign="top">
-  <h3>:page_with_curl:<i>Tutorial video series</i></h3>
+  <h3>:video_camera:<i>Getting Started video series</i></h3>
     -    <b>[Overview of the Azure portal] (URL)</b> - An introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.
     -    <b>[Resource Groups] (URL)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.
     -    <b>[Storage Accounts] (URL)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.
