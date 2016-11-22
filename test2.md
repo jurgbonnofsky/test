@@ -28,10 +28,6 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 	  <td valign="top"><b>[Virtual Machines] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Machines)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.</td>
 	 </tr>
      </table>
-
-![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
- <p> </p>	
-
     
     <table class="table table-bordered table-striped table-hover">
         <tr>
@@ -44,6 +40,10 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
     -    <b>[Virtual Machines] (URL)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.</td>
          </tr>
     </table> 
+
+
+![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
+ <p> </p>	
 
 
 ##Working with Azure
