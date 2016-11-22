@@ -28,6 +28,9 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 	 </tr>
      </table>
 
+![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
+ <p> </p>	
+
     
      <table class="table table-bordered table-striped table-hover">
         <tr>
@@ -41,10 +44,6 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
          </tr>
      </table> 
 
-
-    
-![](https://github.com/Azure-for-Startups/Content/blob/master/Content/media/AzureMap.png)<p> </p>
- <p> </p>	
 
 ##Working with Azure
 
