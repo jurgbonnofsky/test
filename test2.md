@@ -25,7 +25,8 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
 	  <td valign="top"><b>[Resource Groups] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Resource-Groups)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.</td>
           <td valign="top"><b>[Storage Accounts] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Storage-Accounts)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.</td>
           <td valign="top"><b>[Virtual Networks] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Networks)</b> - Learn how to set up a virtual network including IP address blocks, DNS setting, security policies, and routing tables on the Azure portal.</td>
-	  <td valign="top"><b>[Virtual Machines] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Machines)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.</td>
+	  <td valign="top"><b>[Virtual Machines] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Virtual-Machines)</b> - Learn how to set up and configure an Ubuntu virtual machine on the Azure portal.
+	  </td>
 	 </tr>
      </table>
     
