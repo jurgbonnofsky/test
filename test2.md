@@ -17,7 +17,7 @@ The purpose of this GitHub repository is to help **startups** quickly engage and
  **[Azure on Channel9] (https://channel9.msdn.com/Azure)** - Video tutorials about Azure services.
 - **[Startup Offers] (https://azure.microsoft.com/en-us/pricing/member-offers/bizspark-startups/)** - Get free cloud credits and offers through Microsoft’s BizSpark program.
 
-  <h3>:video_camera:<i> Getting Started video series</i></h3>
+  <h3>:video_camera:<i> Getting Started on Azure video series</i></h3>
     -    <b>[Overview of the Azure portal] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Overview-of-the-Azure-portal)</b> - An introduction to the Azure Portal covering navigation and key elements of the portal including the Azure dashboard, marketplace, and resources.
     -    <b>[Resource Groups] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Resource-Groups)</b> - Learn what to consider and how to create and manage a Resource Group on the Azure portal.
     -    <b>[Storage Accounts] (https://channel9.msdn.com/Series/BizSpark-StartUp-Stories/Getting-Started-on-Azure-Storage-Accounts)</b> - Learn how to create and manage a storage account and select the storage option that is right for you on the Azure portal.
